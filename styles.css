@@ -1,4 +1,33 @@
 body {
-  font-family: "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
-  background-color:#fff;
+    font-size: 250%;
+    color: black;
+}
+
+h1 {
+    font-size: 2.5em;
+    color:  #ff5c33;
+}
+
+h2 {
+    font-size: 1.875em;
+}
+
+p {
+    font-size: 0.875em;
+}
+
+div {
+    text-align: justify;
+}
+
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
 }

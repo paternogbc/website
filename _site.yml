@@ -3,10 +3,14 @@ output_dir: "."
 navbar:
   title: "My Website"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
+    - text: "Tutorials"
+      href: tutorials.html
 output:
   html_document:
     theme: cosmo
